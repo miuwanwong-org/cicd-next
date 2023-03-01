@@ -40,6 +40,7 @@ permissions:
 
 jobs:
   Analysis:
+    name: Run sonarcloud analysis
     runs-on: ubuntu-latest
 
     steps:
