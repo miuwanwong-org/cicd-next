@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-
+    name: Run unit test
     runs-on: ubuntu-latest
 
     strategy:
